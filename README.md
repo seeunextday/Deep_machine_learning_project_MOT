@@ -39,5 +39,3 @@ After applying transfer learning, the model's performance was compared against i
 - G. Ciaparrone, F. Luque Sánchez, S. Tabik, L. Troiano, R. Tagliaferri, and F. Herrera, “Deep learning in video multi-object tracking: A survey,” *Neurocomputing*, vol. 381, pp. 61-88, 2020.
 - P. Sun, J. Cao, Y. Jiang, R. Zhang, E. Xie, Z. Yuan, C. Wang, and P. Luo, “TransTrack: Multiple-Object Tracking with Transformer,” arXiv preprint arXiv:2012.15460, 2020.
 
-## PDF Report
-You can view the detailed project report [here](Template_for_your_posters___Deep_Machine_Learning (1).pdf).
