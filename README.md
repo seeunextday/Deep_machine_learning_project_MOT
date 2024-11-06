@@ -40,4 +40,4 @@ After applying transfer learning, the model's performance was compared against i
 - P. Sun, J. Cao, Y. Jiang, R. Zhang, E. Xie, Z. Yuan, C. Wang, and P. Luo, “TransTrack: Multiple-Object Tracking with Transformer,” arXiv preprint arXiv:2012.15460, 2020.
 
 ## PDF Report
-You can view the detailed project report [here](Template_for_your_posters___Deep_Machine_Learning_1.pdf).
+You can view the detailed project report [here](Template_for_your_posters___Deep_Machine_Learning_(1).pdf).
