@@ -16,22 +16,16 @@ These insights aim to provide directions for future improvements in multi-object
 ## Architecture
 The architecture of TransTrack uses a transformer-based model with two decoders: one for detecting new objects and another for tracking previously detected ones. This helps in enhancing tracking accuracy across frames, especially under occlusion and changing scenarios.
 
-![TransTrack Architecture Overview](images/architecture_overview.png)
-
 ## Adverse Conditions Evaluation
 The project also focused on assessing the performance of TransTrack in environments with:
 - **Lighting Effects**
 - **Snow Effects**
 - **Motion Blur**
 
-![Visual of Adverse Conditions](images/adverse_conditions.png)
-
 Performance metrics such as MOTA and IDP recall were analyzed before and after applying transfer learning techniques.
 
 ## Pipeline Development
 The entire development pipeline used in the project is represented below:
-
-![Pipeline Development](images/pipeline_development.png)
 
 ## Performance Metrics
 The metrics to evaluate performance include:
